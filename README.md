@@ -1,5 +1,5 @@
 # C-Programming-Projects
-a collection of my projects from C/C++ programming class at NC State
+A collection of my projects from C/C++ programming class at NC State
 
 1. Ballistics Calculator prints a ballistics table to the console that describes the flight pattern of
     a projectile launched with a user specified initial velocity.
