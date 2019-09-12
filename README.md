@@ -10,4 +10,5 @@ A collection of my projects from C/C++ programming class at NC State
 3. Firewall Simulator allows user to allow or deny
     specific connections and test the outcome.
 
-4. 
+4. Doubly Linked List is a C implementation of a doubly linked list that can
+    push/pop from front/back and report the list.
