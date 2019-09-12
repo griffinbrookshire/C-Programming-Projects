@@ -7,4 +7,7 @@ A collection of my projects from C/C++ programming class at NC State
 2. Copy Cut Paste File Editor performs a variation of specified cut, copy, and/or paste functions
     on some input from file or console, then outputs the results to file or console.
     
-3. 
+3. Firewall Simulator allows user to allow or deny
+    specific connections and test the outcome.
+
+4. 
