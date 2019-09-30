@@ -12,3 +12,6 @@ A collection of my projects from C/C++ programming class at NC State
 
 4. Doubly Linked List is a C implementation of a doubly linked list that can
     push/pop from front/back and report the list.
+    
+5. ClientServerListManagement requires server.c to be run with a list of names to manage. client.c gives commands
+    to the server to modify this list.
